@@ -1,7 +1,7 @@
 # [Prepare Hardware](hardwares)
 # [Burn Firmware](firmware)
 # Facebox SDK
-# Clone facebox_sdk Repo
+## Clone facebox_sdk Repo
 ### https://github.com/fay1986/facebox_sdk.git
 ## Usage
 
