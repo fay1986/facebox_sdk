@@ -9,7 +9,7 @@
 ### 2.2 Change the IP address in source code
 ### 2.3 Run the sample code
 
-## Known Person / Stranger Events Format
+## 3 Known Person / Stranger Events Format
 ### Known Person Event
 ```
 {
@@ -45,7 +45,7 @@
 }
 ```
 
-## Language Support
+## 4 Language Support
 
 ### [Python](python)
 ### [Nodejs](nodejs)
