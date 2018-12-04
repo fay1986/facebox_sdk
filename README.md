@@ -39,7 +39,8 @@
             "current_ts": Current timestamp,
             "fuzziness": Image Fuzziness Score
         }
-    ],"person_id": Reversed
+    ],
+    "person_id": Reversed
 }
 ```
 
