@@ -31,3 +31,19 @@ python main.py
   "accuracy": Accuracy,
   "fuzziness": Image Fuzziness Score
 }
+
+### Stranger Event
+```
+{
+    "status":"Stranger",
+    "persons": [
+        {
+            "uuid": Facebox Device ID,
+            "group_id": Group ID,
+            "img_url": Face Image of detected face,
+            "current_ts": Current timestamp,
+            "fuzziness": Image Fuzziness Score
+        }
+    ],"person_id": Reversed
+}
+```
