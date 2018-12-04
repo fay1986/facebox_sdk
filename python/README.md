@@ -32,7 +32,8 @@ python main.py
         "current_ts": Current timestamp,
         "accuracy": Accuracy,
         "fuzziness": Image Fuzziness Score
-      }]
+      }]，
+      "person_id":Recognized Person ID
 }
 ```
 
