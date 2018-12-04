@@ -18,8 +18,8 @@ python main.py
 ```
 
 ### Known Person Event
-```
 
+```
 {
   "status":"known person",
   "id": Recognized Person ID,
@@ -31,8 +31,10 @@ python main.py
   "accuracy": Accuracy,
   "fuzziness": Image Fuzziness Score
 }
+```
 
 ### Stranger Event
+
 ```
 {
     "status":"Stranger",
@@ -47,3 +49,4 @@ python main.py
     ],"person_id": Reversed
 }
 ```
+
