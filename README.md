@@ -1,13 +1,13 @@
 # [Prepare Hardware](hardwares)
 # [Burn Firmware](firmware)
 # Facebox SDK
-## Clone facebox_sdk Repo
+## 1 Clone facebox_sdk Repo
 ### https://github.com/fay1986/facebox_sdk.git
-## Usage
+## 2 Usage
 
-### Get the ip address of Facebox through 'Circle Point' APP(Chinese version only for now)
-### Change the IP address in source code
-### Run the sample code
+### 2.1 Get the ip address of Facebox through 'Circle Point' APP(Chinese version only for now)
+### 2.2 Change the IP address in source code
+### 2.3 Run the sample code
 
 ## Known Person / Stranger Events Format
 ### Known Person Event
